@@ -22,7 +22,7 @@
 
 4. [ ] Working with documents and proprietary knowledge: Wednesday, 25 February 2026.
 
-5. [ ] Responsible creative generation: Wednesday, 22 April 2026.
+5. [x] [Responsible creative generation](AI-native_foundations/05-responsible_creative_generation.pdf): Wednesday, 22 April 2026.
 
 6. [x] [Generative productivity tools](AI-native_foundations/06-generative_productivity_tools.pdf): Tuesday, 3 March 2026.
 
