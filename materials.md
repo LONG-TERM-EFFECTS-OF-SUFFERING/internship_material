@@ -74,7 +74,7 @@
 
 14. [ ] Virtualization and containers: Wednesday, 8 April 2026.
 
-15. [x] K8s (part 2): Monday, 27 April 2026.
+15. [x] [K8s (part 2)](DevOps_and_cloud_foundations/15-K8s.md): Monday, 27 April 2026.
 
 16. [ ] CI/CD: Wednesday, 15 April 2026.
 
@@ -190,13 +190,13 @@
 
 6. [ ] TypeScript (part 1): Friday, 27 February 2026.
 
-    > Material note: The meeting was not linked to a chat. It was a live code walkthrough, and the speaker shared his wiki: [jcastrov/Wiki](https://github.com/jcastrov/Wiki).
+    > Material note: the meeting was not linked to a chat. It was a live code walkthrough, and the speaker shared his wiki: [jcastrov/Wiki](https://github.com/jcastrov/Wiki).
 
 7. [x] JavaScript (part 3): Friday, 27 February 2026.
 
 8. [x] TypeScript (part 2): Wednesday, 25 March 2026.
 
-    > Material note: Live code walkthrough; no separate slide deck identified.
+    > Material note: live code walkthrough; no separate slide deck identified.
 
 9. [x] [Advanced concepts of React 19 (part 1)](frontend_engineering/09-advanced_concepts_of_React_19_part_1.pdf): Thursday, 26 March 2026.
 
