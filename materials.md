@@ -74,7 +74,7 @@
 
 14. [ ] Virtualization and containers: Wednesday, 8 April 2026.
 
-15. [x] K8s (part 2): Monday, 27 April 2026.
+15. [x] [K8s (part 2)](DevOps_and_cloud_foundations/15-K8s.md): Monday, 27 April 2026.
 
 16. [ ] CI/CD: Wednesday, 15 April 2026.
 
